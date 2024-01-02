@@ -1,8 +1,8 @@
-# 👋 Welcome to martaizba's Experimentation Space 
+## 👋 Welcome to martaizba's Experimentation Space 
 
 Hello there! I'm Marta, a cultural anthropologist turned UX specialist. Here, in my little corner of GitHub, you'll find my melting pot of experiments and explorations in the world of code. 
 
-## 🌟 About Me 🌟
+## 🌟 About Me 
 
 - **Profession:** UX Specialist
 - **Interests:** Unraveling the human experience through technology
